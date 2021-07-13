@@ -1,0 +1,8 @@
+{
+    "name": "proyecto06",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "ViGGo",
+    "contributors": [],
+    "dependencies": {}
+}
